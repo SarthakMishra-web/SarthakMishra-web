@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SarthakMishra-web
+- 👋 Hi, I’m @SarthakMishra
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Bachelor's of Computer Application 
 
